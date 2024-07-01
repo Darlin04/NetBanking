@@ -1,0 +1,15 @@
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\bin\Debug\net7.0\NetBanking.Core.Application.deps.json
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\bin\Debug\net7.0\NetBanking.Core.Application.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\bin\Debug\net7.0\NetBanking.Core.Application.pdb
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\bin\Debug\net7.0\NetBanking.Core.Domain.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\bin\Debug\net7.0\NetBanking.Core.Domain.pdb
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\NetBanking.Core.Application.csproj.AssemblyReference.cache
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\NetBanking.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\NetBanking.Core.Application.AssemblyInfoInputs.cache
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\NetBanking.Core.Application.AssemblyInfo.cs
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\NetBanking.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\NetBanking.Core.Application.csproj.CopyComplete
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\NetBanking.Core.Application.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\refint\NetBanking.Core.Application.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\NetBanking.Core.Application.pdb
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Application\obj\Debug\net7.0\ref\NetBanking.Core.Application.dll

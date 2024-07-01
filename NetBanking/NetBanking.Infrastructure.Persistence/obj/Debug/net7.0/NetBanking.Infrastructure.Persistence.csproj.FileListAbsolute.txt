@@ -1,0 +1,17 @@
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\bin\Debug\net7.0\NetBanking.Infrastructure.Persistence.deps.json
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\bin\Debug\net7.0\NetBanking.Infrastructure.Persistence.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\bin\Debug\net7.0\NetBanking.Infrastructure.Persistence.pdb
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\bin\Debug\net7.0\NetBanking.Core.Application.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\bin\Debug\net7.0\NetBanking.Core.Domain.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\bin\Debug\net7.0\NetBanking.Core.Application.pdb
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\bin\Debug\net7.0\NetBanking.Core.Domain.pdb
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\NetBanking.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\NetBanking.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\NetBanking.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\NetBanking.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\NetBanking.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\NetBanking.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\NetBanking.Infrastructure.Persistence.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\refint\NetBanking.Infrastructure.Persistence.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\NetBanking.Infrastructure.Persistence.pdb
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Infrastructure.Persistence\obj\Debug\net7.0\ref\NetBanking.Infrastructure.Persistence.dll

@@ -1,0 +1,11 @@
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\bin\Debug\net7.0\NetBanking.Core.Domain.deps.json
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\bin\Debug\net7.0\NetBanking.Core.Domain.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\bin\Debug\net7.0\NetBanking.Core.Domain.pdb
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\obj\Debug\net7.0\NetBanking.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\obj\Debug\net7.0\NetBanking.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\obj\Debug\net7.0\NetBanking.Core.Domain.AssemblyInfo.cs
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\obj\Debug\net7.0\NetBanking.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\obj\Debug\net7.0\NetBanking.Core.Domain.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\obj\Debug\net7.0\refint\NetBanking.Core.Domain.dll
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\obj\Debug\net7.0\NetBanking.Core.Domain.pdb
+C:\Users\DARLIN\source\repos\NetBanking\NetBanking.Core.Domain\obj\Debug\net7.0\ref\NetBanking.Core.Domain.dll
