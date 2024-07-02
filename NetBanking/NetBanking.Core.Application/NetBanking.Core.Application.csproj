@@ -7,14 +7,24 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Dtos\Account\" />
-    <Folder Include="Dtos\Email\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Interfaces\Services\" />
-    <Folder Include="Interfaces\Repositories\" />
-    <Folder Include="Mappings\" />
-    <Folder Include="Services\" />
-    <Folder Include="ViewModels\" />
+    <Compile Remove="Dtos\**" />
+    <Compile Remove="Helpers\**" />
+    <Compile Remove="Interfaces\**" />
+    <Compile Remove="Mappings\**" />
+    <Compile Remove="Services\**" />
+    <Compile Remove="ViewModels\**" />
+    <EmbeddedResource Remove="Dtos\**" />
+    <EmbeddedResource Remove="Helpers\**" />
+    <EmbeddedResource Remove="Interfaces\**" />
+    <EmbeddedResource Remove="Mappings\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <EmbeddedResource Remove="ViewModels\**" />
+    <None Remove="Dtos\**" />
+    <None Remove="Helpers\**" />
+    <None Remove="Interfaces\**" />
+    <None Remove="Mappings\**" />
+    <None Remove="Services\**" />
+    <None Remove="ViewModels\**" />
   </ItemGroup>
 
   <ItemGroup>

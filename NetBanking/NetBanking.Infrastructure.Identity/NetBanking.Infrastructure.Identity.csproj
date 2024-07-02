@@ -7,10 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Contexts\" />
-    <Folder Include="Entities\" />
-    <Folder Include="Seeds\" />
-    <Folder Include="Services\" />
+    <Compile Remove="Contexts\**" />
+    <Compile Remove="Entities\**" />
+    <Compile Remove="Seeds\**" />
+    <Compile Remove="Services\**" />
+    <EmbeddedResource Remove="Contexts\**" />
+    <EmbeddedResource Remove="Entities\**" />
+    <EmbeddedResource Remove="Seeds\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <None Remove="Contexts\**" />
+    <None Remove="Entities\**" />
+    <None Remove="Seeds\**" />
+    <None Remove="Services\**" />
   </ItemGroup>
 
   <ItemGroup>
